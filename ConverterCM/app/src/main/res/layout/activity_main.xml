@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/inputText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Digite o texto" />
+
+    <EditText
+        android:id="@+id/passwordEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Digite a senha" />
+    <Button
+        android:id="@+id/convertToMorseButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/inputText"
+        android:text="Converter para Morse" />
+
+    <TextView
+        android:id="@+id/morseCodeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/convertToMorseButton"
+        android:padding="16dp"
+        android:text="Código Morse" />
+
+    <Button
+        android:id="@+id/copyMorseButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/morseCodeTextView"
+        android:text="Copiar Código Morse" />
+
+    <Button
+        android:id="@+id/playMorseAudioButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/copyMorseButton"
+        android:text="Tocar Código Morse" />
+
+    <EditText
+        android:id="@+id/inputMorseCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/playMorseAudioButton"
+        android:hint="Digite o código Morse" />
+
+    <Button
+        android:id="@+id/convertToTextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/inputMorseCode"
+        android:text="Converter para Texto" />
+
+    <TextView
+        android:id="@+id/decodedTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/convertToTextButton"
+        android:padding="16dp"
+        android:text="Texto Decodificado" />
+</LinearLayout>
+</RelativeLayout>
