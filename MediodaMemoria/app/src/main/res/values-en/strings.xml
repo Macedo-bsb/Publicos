@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Memory Measurement</string>
+    <string name="pontuacao">Score:\u0020 </string>
+    <string name="dificuldade">Difficulty Level:</string>
+    <string name="message">Memorize the sequence!</string>
+    <string name="score">Score:\u0020 </string>
+    <string name="record">Record:\u0020 </string>
+    <string name="qtd_imgs">\u0020 image options</string>
+    <string name="correto">Correct! </string>
+    <string name="errado">Incorrect!</string>
+    <string name="errou">You made a mistake!!!</string>
+    <string name="tentar_novamente">Do you want to try again?</string>
+    <string name="start">Start</string>
+    <string name="restart">Restart</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="sobre">About</string>
+    <string name="sobre_desc">This app requires no information, sends no notifications, captures no user data, does not track location, and only uses the internet to load ads that help buy gas for my boat. Thank you</string>
+    <string name="versao">Version: \u0020</string>
+    <string name="txt_language">Language:</string>
+    <string name="recorde_txt">Congratulations! You broke your record!</string>
+    <string name="title_ads">Show advertisement?</string>
+    <string name="desc_ads">To perform this action, we ask for your support to watch a quick advertisement,
+        we need this to be able to develop new apps and improve more and more. Thank you</string>
+    <string name="mostrar_novamente">Show Challenge</string>
+    <string-array name="difficulty_levels">
+        <item>Very Easy</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Very Hard</item>
+    </string-array>
+    <string-array name="langItems">
+        <item>-   Select   -</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Portuguese</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>Russian</item>
+    </string-array>
+    <string name="erro_ad">Error loading ad, let\'s move on!</string>
+</resources>

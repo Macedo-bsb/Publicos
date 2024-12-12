@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Medición de la Memoria</string>
+    <string name="pontuacao">Puntuación:\u0020 </string>
+    <string name="dificuldade">Nivel de dificultad:</string>
+    <string name="message">¡Memoriza la secuencia!</string>
+    <string name="score">Puntuación:\u0020 </string>
+    <string name="record">Récord:\u0020 </string>
+    <string name="qtd_imgs">\u0020 opciones de imágenes</string>
+    <string name="correto">¡Correcto! </string>
+    <string name="errado">¡Incorrecto!</string>
+    <string name="errou">¡Te has equivocado!!!</string>
+    <string name="tentar_novamente">¿Quieres intentarlo de nuevo?</string>
+    <string name="start">Iniciar</string>
+    <string name="restart">Reiniciar</string>
+    <string name="sim">Sí</string>
+    <string name="nao">No</string>
+    <string name="sobre">Acerca de</string>
+    <string name="sobre_desc">Esta aplicación no requiere ninguna información, no envía notificaciones, no captura ningún dato del usuario, no obtiene ubicación y solo usa internet para cargar los anuncios que ayudan a comprar gasolina para mi bote. Gracias</string>
+    <string name="versao">Versión: \u0020</string>
+    <string name="txt_language">Idioma:</string>
+    <string name="recorde_txt">¡Felicidades! ¡Rompiste tu récord!</string>
+    <string name="title_ads">¿Mostrar anuncio?</string>
+    <string name="desc_ads">Para realizar esta acción, le pedimos su apoyo para ver un anuncio rápido,
+        necesitamos esto para poder desarrollar nuevas aplicaciones y mejorar cada vez más. Gracias</string>
+    <string name="mostrar_novamente">Mostrar Desafío</string>
+    <string-array name="difficulty_levels">
+        <item>Muy Fácil</item>
+        <item>Fácil</item>
+        <item>Medio</item>
+        <item>Difícil</item>
+        <item>Muy Difícil</item>
+    </string-array>
+    <string-array name="langItems">
+        <item>-   Seleccionar   -</item>
+        <item>Alemán</item>
+        <item>Inglés</item>
+        <item>Árabe</item>
+        <item>Español</item>
+        <item>Francés</item>
+        <item>Italiano</item>
+        <item>Portugués</item>
+        <item>Chino</item>
+        <item>Japonés</item>
+        <item>Ruso</item>
+    </string-array>
+    <string name="erro_ad">Error al cargar el anuncio, ¡sigamos adelante!</string>
+</resources>
+

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Medição da Memoria</string>
+    <string name="pontuacao">Pontuação:\u0020 </string>
+    <string name="dificuldade">Grau de dificuldade:</string>
+    <string name="message">Memorize a sequência!</string>
+    <string name="recorde_txt">Parabéns! Você bateu seu recorde!"</string>
+    <string name="score">Pontuação:\u0020 </string>
+    <string name="record">Recorde:\u0020 </string>
+    <string name="qtd_imgs">\u0020 opções de imagens</string>
+    <string name="correto">Correto! </string>
+    <string name="errado">Errado!</string>
+    <string name="errou">Você errou!!!</string>
+    <string name="tentar_novamente">Deseja tentar novamente?</string>
+    <string name="start">Iniciar</string>
+    <string name="restart">Reiniciar</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="sobre">Sobre</string>
+    <string name="sobre_desc">Este aplicativo não requer nenhuma informação, não envia notificações, não captura nenhum dado do usuário, não pega localização e apenas utiliza internet para buscar as propagandas que ajudam a comprar gasolina para a minha lancha. Obrigado</string>
+    <string name="versao">Versão: \u0020</string>
+    <string name="txt_language">Idioma:</string>
+    <string name="mostrar_novamente">Mostrar Desafio</string>
+    <!-- Other strings -->
+    <string-array name="difficulty_levels">
+        <item>Muito Fácil</item>
+        <item>Fácil</item>
+        <item>Médio</item>
+        <item>Difícil</item>
+        <item>Muito Difícil</item>
+    </string-array>
+
+    <string-array name="langItems">
+        <item>-   Select   -</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Español</item>
+        <item>French</item>
+        <item>Italiano</item>
+        <item>Português</item>
+        <item>Chinês</item>
+        <item>Japonês</item>
+        <item>Russo</item>
+    </string-array>
+    <string name="title_ads">Exibir propaganda?</string>
+    <string name="desc_ads">Para executar esta ação, pedimos seu apoio para assistir uma rápida propaganda,
+        precisamos disto para conseguir desenvolver novos Apps e melhorar cada vez mais. Obrigado</string>
+
+    <string name="erro_ad">Erro ao carregar anúncio, vamos em frente!</string>
+</resources>

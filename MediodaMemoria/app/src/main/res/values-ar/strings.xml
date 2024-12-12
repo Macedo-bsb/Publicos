@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">قياس الذاكرة</string>
+    <string name="pontuacao">النقاط:\u0020 </string>
+    <string name="dificuldade">مستوى الصعوبة:</string>
+    <string name="message">احفظ التتابع!</string>
+    <string name="score">النقاط:\u0020 </string>
+    <string name="record">السجل:\u0020 </string>
+    <string name="qtd_imgs">\u0020 خيارات الصور</string>
+    <string name="correto">صحيح! </string>
+    <string name="errado">خاطئ!</string>
+    <string name="errou">لقد أخطأت!!!</string>
+    <string name="tentar_novamente">هل تريد المحاولة مرة أخرى؟</string>
+    <string name="start">ابدأ</string>
+    <string name="restart">إعادة بدء</string>
+    <string name="sim">نعم</string>
+    <string name="nao">لا</string>
+    <string name="sobre">حول</string>
+    <string name="sobre_desc">هذا التطبيق لا يتطلب أي معلومات، لا يرسل إشعارات، لا يجمع بيانات المستخدم، لا يحدد الموقع ويستخدم الإنترنت فقط لتحميل الإعلانات التي تساعد في شراء البنزين لقاربي. شكرا</string>
+    <string name="versao">الإصدار: \u0020</string>
+    <string name="txt_language">اللغة:</string>
+    <string name="mostrar_novamente">إظهار التحدي</string>
+    <string name="recorde_txt">تهانينا! لقد حطمت رقمك القياسي!</string>
+    <string-array name="difficulty_levels">
+        <item>سهل جداً</item>
+        <item>سهل</item>
+        <item>متوسط</item>
+        <item>صعب</item>
+        <item>صعب جداً</item>
+    </string-array>
+    <string-array name="langItems">
+        <item>-   اختيار   -</item>
+        <item>ألمانية</item>
+        <item>إنجليزية</item>
+        <item>عربية</item>
+        <item>إسبانية</item>
+        <item>فرنسية</item>
+        <item>إيطالية</item>
+        <item>برتغالية</item>
+        <item>صينية</item>
+        <item>يابانية</item>
+        <item>روسية</item>
+    </string-array>
+    <string name="title_ads">عرض الإعلان؟</string>
+    <string name="desc_ads">لإجراء هذا الإجراء ، نطلب دعمك لمشاهدة إعلان سريع،
+        نحتاج إلى ذلك لنتمكن من تطوير تطبيقات جديدة وتحسين المزيد والمزيد. شكرا</string>
+    <string name="erro_ad">خطأ في تحميل الإعلان، دعنا نستمر!</string>
+</resources>
