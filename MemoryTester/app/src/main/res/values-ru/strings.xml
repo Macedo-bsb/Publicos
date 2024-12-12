@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Тестер Памяти</string>
+    <string name="pontuacao">Очки:\u0020 </string>
+    <string name="dificuldade">Уровень сложности:</string>
+    <string name="message">Запомните последовательность!</string>
+    <string name="score">Очки:\u0020 </string>
+    <string name="record">Рекорд:\u0020 </string>
+    <string name="qtd_imgs">\u0020 параметры изображений</string>
+    <string name="correto">Правильно! </string>
+    <string name="errado">Неправильно!</string>
+    <string name="errou">Вы ошиблись!!!</string>
+    <string name="tentar_novamente">Хотите попробовать снова?</string>
+    <string name="start">Начать</string>
+    <string name="restart">Перезапустить</string>
+    <string name="sim">Да</string>
+    <string name="nao">Нет</string>
+    <string name="sobre">О приложении</string>
+    <string name="sobre_desc">Это приложение не требует никакой информации, не отправляет уведомлений, не захватывает данные пользователя, не определяет местоположение и использует интернет только для загрузки рекламы, которая помогает покупать бензин для моей лодки. Спасибо</string>
+    <string name="versao">Версия: \u0020</string>
+    <string name="txt_language">Язык:</string>
+    <string name="title_ads">Показать рекламу?</string>
+    <string name="desc_ads">Чтобы выполнить это действие, мы просим вашей поддержки, чтобы посмотреть короткую рекламу,
+        нам нужно это, чтобы иметь возможность разрабатывать новые приложения и все больше и больше улучшаться. Спасибо</string>
+    <string name="recorde_txt">Поздравляю! Вы побили свой рекорд!</string>
+    <string name="mostrar_novamente">Показать задание</string>
+    <string-array name="difficulty_levels">
+        <item>Очень легко</item>
+        <item>Легко</item>
+        <item>Средне</item>
+        <item>Трудно</item>
+        <item>Очень трудно</item>
+    </string-array>
+    <string-array name="langItems">
+        <item>-   Выбрать   -</item>
+        <item>Немецкий</item>
+        <item>Английский</item>
+        <item>Арабский</item>
+        <item>Испанский</item>
+        <item>Французский</item>
+        <item>Итальянский</item>
+        <item>Португальский</item>
+        <item>Китайский</item>
+        <item>Японский</item>
+        <item>Русский</item>
+    </string-array>
+    <string name="erro_ad">Ошибка загрузки объявления, продолжаем!</string>
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">记忆测试器</string>
+    <string name="pontuacao">得分:\u0020 </string>
+    <string name="dificuldade">难度等级:</string>
+    <string name="message">记住顺序!</string>
+    <string name="score">得分:\u0020 </string>
+    <string name="record">记录:\u0020 </string>
+    <string name="qtd_imgs">\u0020 图像选项</string>
+    <string name="correto">正确! </string>
+    <string name="errado">错误!</string>
+    <string name="errou">你错了!!!</string>
+    <string name="tentar_novamente">你想再试一次吗?</string>
+    <string name="start">开始</string>
+    <string name="restart">重新启动</string>
+    <string name="sim">是的</string>
+    <string name="nao">不</string>
+    <string name="sobre">关于</string>
+    <string name="sobre_desc">此应用程序不需要任何信息，不发送通知，不捕获任何用户数据，不获取位置，仅使用互联网加载帮助购买我船用汽油的广告。谢谢</string>
+    <string name="title_ads">显示广告？</string>
+    <string name="desc_ads">为了执行此操作，我们请求您观看一个简短的广告来支持我们，
+        我们需要这样做才能开发新的应用程序并不断改进。谢谢</string>
+    <string name="versao">版本: \u0020</string>
+    <string name="txt_language">语言:</string>
+    <string name="recorde_txt">恭喜！你打破了你的记录！</string>
+    <string name="mostrar_novamente">显示挑战</string>
+    <string-array name="difficulty_levels">
+        <item>非常简单</item>
+        <item>简单</item>
+        <item>中等</item>
+        <item>难</item>
+        <item>非常难</item>
+    </string-array>
+    <string-array name="langItems">
+        <item>-   选择   -</item>
+        <item>德语</item>
+        <item>英语</item>
+        <item>阿拉伯语</item>
+        <item>西班牙语</item>
+        <item>法语</item>
+        <item>意大利语</item>
+        <item>葡萄牙语</item>
+        <item>中文</item>
+        <item>日语</item>
+        <item>俄语</item>
+    </string-array>
+    <string name="erro_ad">加载广告出错，继续前进！</string>
+</resources>

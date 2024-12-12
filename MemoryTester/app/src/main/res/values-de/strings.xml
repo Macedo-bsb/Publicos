@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Gedächtnistester</string>
+    <string name="pontuacao">Punktzahl:\u0020 </string>
+    <string name="dificuldade">Schwierigkeitsgrad:</string>
+    <string name="message">Merke dir die Sequenz!</string>
+    <string name="score">Punktzahl:\u0020 </string>
+    <string name="record">Rekord:\u0020 </string>
+    <string name="qtd_imgs">\u0020 Bildoptionen</string>
+    <string name="correto">Richtig! </string>
+    <string name="errado">Falsch!</string>
+    <string name="errou">Du hast einen Fehler gemacht!!!</string>
+    <string name="tentar_novamente">Möchtest du es nochmal versuchen?</string>
+    <string name="start">Starten</string>
+    <string name="restart">Neu starten</string>
+    <string name="sim">Ja</string>
+    <string name="nao">Nein</string>
+    <string name="sobre">Über</string>
+    <string name="sobre_desc">Diese App erfordert keine Informationen, sendet keine Benachrichtigungen, erfasst keine Benutzerdaten, ermittelt keine Position und nutzt das Internet nur, um Werbung zu laden, die hilft, Benzin für mein Boot zu kaufen. Danke</string>
+    <string name="versao">Version: \u0020</string>
+    <string name="txt_language">Sprache:</string>
+    <string name="recorde_txt">Glückwunsch! Du hast deinen Rekord gebrochen!</string>
+    <string name="mostrar_novamente">Herausforderung anzeigen</string>
+    <string name="title_ads">Anzeige anzeigen?</string>
+    <string name="desc_ads">Um diese Aktion auszuführen, bitten wir um Ihre Unterstützung, indem Sie sich eine kurze Werbung ansehen,
+        wir benötigen dies, um neue Apps zu entwickeln und immer weiter zu verbessern. Danke</string>
+    <string-array name="difficulty_levels">
+        <item>Sehr einfach</item>
+        <item>Einfach</item>
+        <item>Mittel</item>
+        <item>Schwierig</item>
+        <item>Sehr schwierig</item>
+    </string-array>
+    <string-array name="langItems">
+        <item>-   Wählen   -</item>
+        <item>Deutsch</item>
+        <item>Englisch</item>
+        <item>Arabisch</item>
+        <item>Spanisch</item>
+        <item>Französisch</item>
+        <item>Italienisch</item>
+        <item>Portugiesisch</item>
+        <item>Chinesisch</item>
+        <item>Japanisch</item>
+        <item>Russisch</item>
+    </string-array>
+    <string name="erro_ad">Fehler beim Laden der Anzeige, weiter geht\'s!</string>
+</resources>

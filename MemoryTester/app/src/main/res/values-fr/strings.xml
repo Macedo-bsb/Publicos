@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Testeur de Mémoire</string>
+    <string name="pontuacao">Score:\u0020 </string>
+    <string name="dificuldade">Niveau de difficulté:</string>
+    <string name="message">Mémorisez la séquence!</string>
+    <string name="score">Score:\u0020 </string>
+    <string name="record">Record:\u0020 </string>
+    <string name="qtd_imgs">\u0020 options d\'images</string>
+    <string name="correto">Correct! </string>
+    <string name="errado">Incorrect!</string>
+    <string name="errou">Vous avez fait une erreur!!!</string>
+    <string name="tentar_novamente">Voulez-vous essayer à nouveau?</string>
+    <string name="start">Démarrer</string>
+    <string name="restart">Redémarrer</string>
+    <string name="sim">Oui</string>
+    <string name="nao">Non</string>
+    <string name="sobre">À propos</string>
+    <string name="sobre_desc">Cette application ne nécessite aucune information, n\'envoie aucune notification, ne capture aucune donnée utilisateur, ne recueille pas de localisation et utilise Internet uniquement pour charger les publicités qui aident à acheter de l\'essence pour mon bateau. Merci</string>
+    <string name="versao">Version: \u0020</string>
+    <string name="txt_language">Langue:</string>
+    <string name="recorde_txt">Félicitations! Vous avez battu votre record!</string>
+    <string name="mostrar_novamente">Afficher le défi</string>
+    <string name="title_ads">Afficher la publicité ?</string>
+    <string name="desc_ads">Pour effectuer cette action, nous vous demandons de bien vouloir regarder une courte publicité,
+        nous en avons besoin pour pouvoir développer de nouvelles applications et améliorer de plus en plus. Merci</string>
+    <string-array name="difficulty_levels">
+        <item>Très Facile</item>
+        <item>Facile</item>
+        <item>Moyen</item>
+        <item>Difficile</item>
+        <item>Très Difficile</item>
+    </string-array>
+    <string-array name="langItems">
+        <item>-   Sélectionner   -</item>
+        <item>Allemand</item>
+        <item>Anglais</item>
+        <item>Arabe</item>
+        <item>Espagnol</item>
+        <item>Français</item>
+        <item>Italien</item>
+        <item>Portugais</item>
+        <item>Chinois</item>
+        <item>Japonais</item>
+        <item>Russe</item>
+    </string-array>
+    <string name="erro_ad">Erreur de chargement de l\'annonce, continuons!</string>
+</resources>
